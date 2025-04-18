@@ -20,7 +20,9 @@ button {cursor: pointer;}
 
 /* task 1 */
 
-.title-categories {font-weight: 600;
+.title-categories {
+font-family: Montserrat;
+font-weight: 600;
 font-size: 24px;
 line-height: 1.33;
 letter-spacing: 0.04em;
